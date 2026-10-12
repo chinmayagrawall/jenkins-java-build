@@ -4,8 +4,8 @@ public class JenkinsBuild {
         System.out.println("================================");
         System.out.println("     Jenkins Java Build Demo");
         System.out.println("================================");
-        System.out.println("Hello from Jenkins!");
-        System.out.println("Java program compiled successfully.");
-        System.out.println("Build verification: PASSED");
+        System.out.println("Hello from Chinmay Agrawal!");
+        System.out.println("Assignment 8 completed .");
+        System.out.println("Verification: PASSED");
     }
 }
